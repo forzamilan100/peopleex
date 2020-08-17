@@ -1,0 +1,66 @@
+MODELS AND PROCESSES IMPLEMENTATION - про моделі розробки ПО. Ітеративні, аджайл т.д. Вибір моделі залежно від типу проекту (розробка, супорт і т.д.).
+Key Knowledge:
+
+- Software lifecycle model types
+- Scalable software lifecycle model types
+
+
+PROCESS MANAGEMENT AND DATA COLLECTION - процеси, метрики, порядок дій при розробці, бюрократія.
+Practical Aspects:
+
+- Process measurement metrics
+- Process management
+
+
+SOFTWARE PROCESS TAILORING - як стандартизовані процеси розробки аджастаються під потреби проекта чи клієнта. 
+Наприклад, кородші релізи на Медхості після зміни керівництва.
+Наприклад, прайс транспаренсі довшими релізами йде ніж основний проект. Иак само як мобайл і УСЕ.
+Key Knowledge:
+
+- Software lifecycle model types
+- Software processes understanding 
+
+PROCESS ASSESSMENT AND IMPROVEMENT - оцінка і покращення процесів компанії. Непонятно шо таке. Спитати Наталю і Артьома.
+Key Knowledge:
+
+- software process assessment models
+- software process assessment methods
+- software process improvement models
+- continuous and staged process ratings
+- SCAMPI
+
+
+Software Requirements
+STAKEHOLDERS COLLABORATION – комунікація з стекхолдерами відносно розробки продукту.
+Key Knowledge: 
+- Stakeholders identification 
+- RACI matrix 
+- Requirements Negotiation 
+- Requirements Change Management 
+- Scope creep - Gold plating
+
+
+REQUIREMENTS ELICITATION AND ANALYSIS - збір та аналіз різного роду реквайрментів від стекхолдерів. Їх документування.
+Key Knowledge:
+
+- Requirement definition
+- Requirements prioritization
+- Requirements classification
+- Project scope Vs. Product scope
+- Definition of a Software Requirement
+- Product and process requirements
+- Functional and nonfunctional requirements
+- System requirements and software requirements
+- Requirements development process
+- Elicitation techniques
+- Conceptual modelling
+- Requirements engineering
+
+REQUIREMENTS SPECIFICATION AND VALIDATION - визначають що робить продукт і що від нього очікують. Документують, описують, діаграми і т.д.
+Тако ж валідуються ревайрменти чи вони відповідають тому, що потребує система і чи нема конфліктів б потіи вирішувати так речі буде дорожче.
+
+Key Knowledge:
+
+- Characteristics of Excellent Requirements
+- Quantifiable Requirements
+- Requirements validation techniques
