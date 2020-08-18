@@ -1,3 +1,4 @@
+=Software Process and Life Cycle
 MODELS AND PROCESSES IMPLEMENTATION - про моделі розробки ПО. Ітеративні, аджайл т.д. Вибір моделі залежно від типу проекту (розробка, супорт і т.д.).
 Key Knowledge:
 
@@ -14,7 +15,7 @@ Practical Aspects:
 
 SOFTWARE PROCESS TAILORING - як стандартизовані процеси розробки аджастаються під потреби проекта чи клієнта. 
 Наприклад, кородші релізи на Медхості після зміни керівництва.
-Наприклад, прайс транспаренсі довшими релізами йде ніж основний проект. Иак само як мобайл і УСЕ.
+Наприклад, прайс транспаренсі довшими релізами йде ніж основний проект. Так само як мобайл і УСЕ.
 Key Knowledge:
 
 - Software lifecycle model types
@@ -30,7 +31,7 @@ Key Knowledge:
 - SCAMPI
 
 
-Software Requirements
+=Software Requirements
 STAKEHOLDERS COLLABORATION – комунікація з стекхолдерами відносно розробки продукту.
 Key Knowledge: 
 - Stakeholders identification 
@@ -64,3 +65,46 @@ Key Knowledge:
 - Characteristics of Excellent Requirements
 - Quantifiable Requirements
 - Requirements validation techniques
+
+=Software Design
+FUNDAMENTAL DESIGN TECHNIQUES  - при рощробці модулів чи імплементації фічі виуористовувати техніки дизайну шоб наглядно показати компоненти, 
+їх взаємодію, абстракції, когіжен, каплінг і т.д.
+Key Knowledge:
+
+- Design in the Software Development Process
+- Modularization, Hierarchy, Abstraction, Encapsulation
+- Coupling and Cohesion
+- Decomposition and modularization
+- Encapsulation and information hiding
+- Separation of interface and implementation
+- Separation of concerns principle
+
+ARCHITECTURAL PATTERNS AND STYLES  - стиль це опис компонентів і їх взаємодії разом з констрейнтами і як 
+вони мають юзатися - описують хайлевельно організацію софтвара.
+Архітектурні патерна - це набір рішень з точки зору дизайну ПО.
+
+Key Knowledge:
+module structures, component-and-connector structures, and allocation structures
+- Architecture styles
+- Architecture patterns
+- Architecture views
+- Architecture models
+- OOD
+
+COMPONENTS AND MODULES DESIGN - дизайн компонентів і модулів, діаграм і потернів.
+Key Knowledge:
+
+- Design models
+- Design patterns
+- Notations
+- Diagramming techniques
+
+RESTRUCTURING AND REFACTORING - рефакторінг компонентів, покращення реюзабіліті, створення абстракцій.
+Key Knowledge:
+- Refactoring and restructuring methods
+
+DESIGN QUALITY ANALYSIS AND EVALUATION - робота над не функціональними реквайрментами такими як мейнтейнабіліті, юзабіліті, 
+тестабіліті, коректнесс, комплітнесс
+
+Key Knowledge:
+- Quality Analysis and Evaluation Techniques
