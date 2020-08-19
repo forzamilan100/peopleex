@@ -108,3 +108,151 @@ DESIGN QUALITY ANALYSIS AND EVALUATION - робота над не функціо
 
 Key Knowledge:
 - Quality Analysis and Evaluation Techniques
+
+=Software Construction Management
+CROSS-TEAM COLLABORATION - 	колаборація між тімами, превірка коду друг друга, мітинги.
+Key Knowledge:
+
+- Overview of Collaborative Development Practices
+- Pair Programming
+- Formal Inspections
+- Over-the-shoulder reviews
+- E-mail pass-around reviews
+- Tool-Assisted reviews
+- Other Kinds of Collaborative Development Practices (walkthroughs, code reading, etc.)
+
+REVIEWS AND INSPECTIONS  - кор ревью і інспекція коду.
+- Know your technology best practices
+- Know your technology weakest sides
+- Know code smells
+- Security review
+- Know and use code review/inspections best practices
+
+CONFIGURATION MANAGEMENT - версіонування коду, контроль за сорцами, релізами, білдами, деплоєм.
+Key Knowledge:
+
+- Difference between local, centralized, and distributed source code management tools and their usage
+- Source Code Management tools types (Local, Centralized, Distributed such as Git, Subversion, Perforce, etc.)
+- Source code storages (repositories)
+- Branching and creating new code revisions
+- Introducing new changes
+- Switching between code versions
+- Code conflict resolutions
+- Rolling back code changes locally and remotely
+- Listing and analyzing code change history
+- Comparing code changes of different versions
+- Defect detection
+- Tracing code change author, dependencies and purpose
+- Release versioning
+
+ESTIMATION - естімейт, техніки, принципи:
+Key Knowledge:
+
+- Fundamental principles of estimation
+- Estimation techniques: 
+  - Expert judgment
+  - Analogy
+  - Estimation by parts
+  - Parametric methods
+  - Statistical methods
+-Techniques for addressing estimation uncertainty:
+  - consider ranges of estimates
+  - analyze sensitivity to changes in assumptions
+- delay final decisions
+- Estimation procedure
+- Recording estimate
+
+CODE QUALITY MEASUREMENTS - всякі метрико повязані з якістю коду і його кавереджом.
+Key Knowledge:
+- Maintainability Index
+- Cyclomatic Complexity
+- Depth of Inheritance and Class Coupling 
+- Lines of Code
+- Number of Methods
+- Number of Fields
+- Afferent Coupling
+- Efferent Coupling
+- Relational Cohesion
+- Instability and Abstractness
+- Type Rank
+- Method Rank
+- Number of Parameters
+- Number of Variables
+- Average Lines of Code for Methods
+- Average Lines of Code for Types
+- Average Cyclomatic Complexity for Methods
+- Change risk analysis
+- Code coverage by tests
+- Code smells measurement
+- Comments/Documentation coverage
+
+CONSTRUCTION PLANNING - планування активностей для побудови проуесу розробки. 
+Key Knowledge:
+
+- understand the concepts of software processes and software process models;
+- have been introduced to three general software process models and when they might be used;
+- know about the fundamental process activities of software requirements engineering, software development, testing, and evolution;
+- understand why processes should be organized to cope with changes in the software requirements and design;
+- understand the notion of software process improvement and the factors that affect software process quality.
+
+STANDARDS AND CONVENTIONS - код стандарти і всякого роду домовленості на проекті.
+Key Knowledge:
+
+- Coding conventions of the programming language you are going to use
+- Error handling conventions and standards
+- Code reuse policy
+- Performance standards and best practices
+- Teamwork standards (e.g. pair programming)
+- Integration standards (e.g the number of steps and criteria that should be done/fulfilled before code is checked out to master)
+- Code review standards
+- Unit and Integration testing standards
+- Configuration management and version control standards
+
+ENVIRONMENT AND TOOLS - тули які використовуються від девелопменту до деплоя на прод.
+Key Knowledge:
+
+Knowledge of this activity is concentrated around the building of effective and efficient software construction environment by configuring and empowering the execution environment with different tools, libraries and packages.
+
+- Package dependencies
+- Package management tools
+- Libraries
+- Build tools
+- CLI tools
+- IDE's
+- GUI tools
+
+CONTINUOUS INTEGRATION - код репо, білди по мерджам, деплой на енви.
+To achieve these objectives, continuous integration relies on the following principles:
+
+- Maintain a code repository
+- Automate the build
+- Make the build self-testing
+- Everyone commits to the baseline every day
+- Keep the build fast
+- Test in a clone of the production environment
+- Everyone can see the results of the latest build
+- Automate deployment
+Key Knowledge:
+
+- Continuous integration
+- Continuous delivery
+- Continuous deployment
+- Continuous integration concept, best practices, and framework
+- Scripting multiphase build process
+- Integrating building of product installer
+- Generating release notes and/or other release documentation
+- Development of scheduled builds
+- Monitoring build process
+- Build status reporting and notifications
+- Integrating the deployment stage, moving product to release area
+
+=Software Testing and Quality
+QUALITY GOALS AND ATTRIBUTES - все шо стосується яксоті та її атрибутів продукту.
+Key Knowledge:
+
+- Quality Assurance and Control
+- Quality Goals
+- Quality Attributes
+- Quality Culture
+- Quality Standards 
+
