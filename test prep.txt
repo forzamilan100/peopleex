@@ -58,7 +58,7 @@ Key Knowledge:
 - Requirements engineering
 
 REQUIREMENTS SPECIFICATION AND VALIDATION - визначають що робить продукт і що від нього очікують. Документують, описують, діаграми і т.д.
-Тако ж валідуються ревайрменти чи вони відповідають тому, що потребує система і чи нема конфліктів б потіи вирішувати так речі буде дорожче.
+Тако ж валідуються реквайрменти чи вони відповідають тому, що потребує система і чи нема конфліктів бо потім вирішувати так речі буде дорожче.
 
 Key Knowledge:
 
@@ -67,7 +67,7 @@ Key Knowledge:
 - Requirements validation techniques
 
 =Software Design
-FUNDAMENTAL DESIGN TECHNIQUES  - при рощробці модулів чи імплементації фічі виуористовувати техніки дизайну шоб наглядно показати компоненти, 
+FUNDAMENTAL DESIGN TECHNIQUES  - при розробці модулів чи імплементації фічі виуористовувати техніки дизайну шоб наглядно показати компоненти, 
 їх взаємодію, абстракції, когіжен, каплінг і т.д.
 Key Knowledge:
 
@@ -186,7 +186,7 @@ Key Knowledge:
 - Code smells measurement
 - Comments/Documentation coverage
 
-CONSTRUCTION PLANNING - планування активностей для побудови проуесу розробки. 
+CONSTRUCTION PLANNING - планування активностей для побудови процесу розробки. 
 Key Knowledge:
 
 - understand the concepts of software processes and software process models;
@@ -256,3 +256,189 @@ Key Knowledge:
 - Quality Culture
 - Quality Standards 
 
+TEST PLANNING - планування ьесьінгу, ресурсу команди для цього, документування темт плану.
+Key Knowledge:
+
+- Software Testing Stakeholders
+- Success and Failure Criteria
+- Test Completion Criteria
+- Implement the Software Test Plan
+- Acceptance and Demonstration Stakeholders 
+
+PRACTICES AND TECHNIQUES - техінки і методи тестування
+See below a list of testing techniques:
+
+- Ad Hoc
+- Exploratory Testing
+- Input Domain-Based Techniques
+  - Equivalence Partitioning
+  - Pairwise Testing
+  - Boundary-Value Analysis
+  - Random Testing
+- Code-Based Techniques
+  - Control Flow-Based Criteria
+  - Data Flow-Based Criteria
+  - Reference Models for Code-Based Testing
+- Fault-Based Techniques
+  - Error Guessing
+  - Mutation Testing
+- Usage-Based Techniques
+  - Operational Profile
+  - User Observation Heuristics
+- Model-Based Testing Techniques
+  - Decision Tables
+  - Finite-State Machines
+  - Formal Specifications
+Workflow Models
+- Techniques Based on the Nature of the Application
+- Selecting and Combining Techniques
+  - Combining Functional and Structural
+  - Deterministic vs. Random
+
+Key Knowledge:
+
+- know techniques existence and applicability areas
+- be able to analyze which one suites your case
+
+DEFECT TRACKING AND REPORTING - трекінг дефектів. Баги і дефекти це різне. 
+Можна по логам чи поведінці системи і т.д. визначити де є потенційна проблема і як покращити тестування наступного разу шоб не було таких проблем.
+Key Knowledge:
+
+- Defect Tracking
+- Defect Reporting Approaches
+- Defect System or Tool
+- Test execution Reports
+- Defect report
+- Test Incident report
+- Test Execution Report
+- Defect Management Process 
+
+MEASUREMENT AND IMPROVEMENTS - аналіз і метрики на протязі тестування.
+Key Knowledge:
+
+- What is test monitoring in software testing?
+- Test Progress Monitoring and Control
+- Root Cause Analysis
+- Strategies to reduce rework in software development
+- Improving the Testing Process
+- Test Effectiveness snd Test Efficiency
+- Evaluating the Effectiveness of Software Testing Techniques
+- Testing Metrics: Measuring Product, Process and Project Quality 
+
+=Software Construction Testing and Debugging
+TEST FRAMEWORKS - вреймворки для тестів. принципи тестування.
+Key Knowledge:
+
+- know existing test frameworks and their advantages
+- unit-testing principles
+
+UNIT TESTING TECHNIQUES AND TOOLS - юніт тестування і тули для нього.
+Key Knowledge:
+
+- Knowledge of unit testing techniques specific
+- Knowledge of unit testing tools within project technology
+
+INTEGRATION TESTING TECHNIQUES AND TOOLS - інтеграційне тестування і тули для нього.
+Key Knowledge:
+
+- Integration testing approaches, strategies, and methodologies
+- Integration types
+- Integration testing tools and frameworks
+- Integration testing best practices
+
+TEST COVERAGE - тест ковередж, тули для нього і аналіз.
+Key Knowledge:
+
+- Test coverage tools
+- Test coverage goals definition
+- Test coverage data analysis
+
+TESTING PRACTICES AND TECHNIQUES -
+Key Knowledge:
+
+- know techniques existence and applicability areas
+- be able to analyze which one suites your case
+
+DEBUGGING TOOLS AND TECHNIQUES  - дебаг і тули.
+Key Knowledge:
+
+- knowledge of existing debugging tools and areas of applicability of these tools
+- knowledge of debugging techniques
+
+=Software Competency Development
+EVALUATION AND INTERVIEW - техніки, проведення, оцінювання інтерью.
+ 
+BEST PRACTICES CATALOG AND STANDARDS - бест практіс і стандарти компетенцій по профайлу при оцінюванні на інтервью і власному розвитку?
+ 
+SUPERVISION AND CONSULTING - супервайзінг, 1 ту 1 діскашени шоб імпрувнути скіли тім мембера ждя покращення перформансу.
+ 
+EXPERTISE PRESENTATION AND PROMOTION - обмінюватися опитом з комуніті в середині профайлу. Презентації.
+ 
+=Software Construction Design and Coding
+CLOUDS DESIGN AND COMPUTING - побудова архітектури в клауді за допомогою бест практіс і патернів.
+ 
+DESIGN AND DESIGN PATTERNS - дизайн програмних рішень на основі бест практіс, патернів і підходів.
+ 
+FRAMEWORK USAGE AND EXTENSIONS - фреймворки, їх екстеншени і депенденсі.
+ Key Knowledge:
+
+- Framework core
+- Framework extensions
+- Framework configuration
+- Framework dependencies
+
+API DESIGN AND USE - Апішки.
+Key Knowledge:
+
+- API types
+- API best practices
+- Resource types and modeling
+- API from HTTP perspective (e.g. status codes, methods, headers, URI's)
+- API response representations
+- API versioning
+- API security
+- API authentication and authorization
+
+DATABASE DESIGN AND DATA MANAGEMENT - бд, структура даних в них.
+Key Knowledge:
+
+- Relational Database normalization
+- Relational Database denormalization
+- Database types
+- Structured Query Language and Usage
+- Selecting data
+- Ordering and Grouping data
+- Data aggregation
+- Transactions and ACID
+- Query performance optimization
+
+PRIMARY LANGUAGE AND CODING - основна мова і її фішки. 
+Key Knowledge:
+
+- Programming language keywords
+- Programming language semantics
+- Programming language standard library possibilities
+- Programming language ecosystem (e.g. package managers, etc)
+- Parallelism and Distribution
+- Programming language paradigm
+
+SUPPORTIVE LANGUAGE AND CODING - фішки інших мов які юзав. Всякі там груві, гоу, юайку і ь.д.
+Key Knowledge:
+
+- Programming language keywords
+- Programming language semantics
+- Programming language standard library possibilities
+- Programming language ecosystem (e.g. package managers, etc)
+- Parallelism and Distribution
+- Programming language paradigm
+
+REFACTORING AND REENGINEERING - реінженіринг і рефакторінг.
+Реінженірінг зазвичай роблять як продукт уже в підтримці деякий час і роблять зміни шоб зменшити кости на цю підтримку.
+Так шось легасі переписують на нові тули шоб зробити систему більш мейнтенбл.
+Рефакторінг ж роблять на протязі всього процесу розробки програмного продукту.
+
+Key Knowledge:
+
+- Refactoring principles
+- Bad smell recognition
+- Generalization concept
